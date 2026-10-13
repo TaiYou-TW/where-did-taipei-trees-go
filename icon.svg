@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512" role="img" aria-label="樹都去哪了">
+  <title>樹都去哪了</title>
+  <rect width="64" height="64" rx="14" fill="#f3f6f2"/>
+  <rect x="29.6" y="35" width="4.8" height="18" rx="2.4" fill="#14543a"/>
+  <g fill="#1c7a4b">
+    <circle cx="32" cy="25" r="13.4"/>
+    <circle cx="21.2" cy="29.6" r="8.8"/>
+    <circle cx="42.8" cy="29.6" r="8.8"/>
+    <circle cx="25.4" cy="18.2" r="7.8"/>
+    <circle cx="38.6" cy="18.2" r="7.8"/>
+  </g>
+  <g fill="#f3f6f2">
+    <circle cx="25.2" cy="26.6" r="2.7"/>
+    <circle cx="37.6" cy="21.2" r="2.3"/>
+    <circle cx="31.2" cy="33" r="2"/>
+  </g>
+  <circle cx="47.5" cy="44" r="3.1" fill="#a9700e"/>
+</svg>

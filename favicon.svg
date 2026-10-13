@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="樹都去哪了">
+  <title>樹都去哪了</title>
+  <style>
+    .leaf{fill:#1c7a4b}
+    .trunk{fill:#1c7a4b}
+    .gap{fill:#f3f6f2}
+    @media (prefers-color-scheme:dark){
+      .leaf{fill:#4fbd83}
+      .trunk{fill:#2f9c66}
+      .gap{fill:#0f1a14}
+    }
+  </style>
+  <rect class="trunk" x="29.6" y="34" width="4.8" height="21" rx="2.4"/>
+  <g class="leaf">
+    <circle cx="32" cy="24" r="15"/>
+    <circle cx="19" cy="29.5" r="9.6"/>
+    <circle cx="45" cy="29.5" r="9.6"/>
+    <circle cx="24" cy="15.5" r="8.4"/>
+    <circle cx="40" cy="15.5" r="8.4"/>
+  </g>
+  <circle class="gap" cx="23.5" cy="25.5" r="3.4"/>
+  <circle class="gap" cx="39.5" cy="19.5" r="2.8"/>
+</svg>
